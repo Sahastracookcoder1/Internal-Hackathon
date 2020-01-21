@@ -1,4 +1,4 @@
-package com.vikaspandey121.progection;
+package myfirstapkas.com.qrcode;
 
 import org.junit.Test;
 

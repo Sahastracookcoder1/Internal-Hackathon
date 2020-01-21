@@ -1,4 +1,4 @@
-package com.vikaspandey121.progection;
+package myfirstapkas.com.qrcode;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.vikaspandey121.progection", appContext.getPackageName());
+        assertEquals("myfirstapkas.com.qrcode", appContext.getPackageName());
     }
 }
